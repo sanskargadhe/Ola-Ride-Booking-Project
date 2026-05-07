@@ -203,27 +203,27 @@ Created a professional 5-page interactive dashboard with slicers and KPIs.
 # 📊 Power BI Dashboard Preview
 
 ## Executive Dashboard
-![Executive Dashboard](images/Dashboard/executive_dashboard.jpg)
+![Executive Dashboard](images/Dashboard_Images/executive_dashboard.jpg)
 
 ---
 
 ## Revenue Analysis Dashboard
-![Revenue Dashboard](images/Dashboard/Revenue_Analysis.jpg)
+![Revenue Dashboard](images/Dashboard_Images/Revenue_Analysis.jpg)
 
 ---
 
 ## Ride Patterns Dashboard
-![Ride Patterns](images/Dashboard/Ride_patterns.jpg)
+![Ride Patterns](images/Dashboard_Images/Ride_patterns.jpg)
 
 ---
 
 ## Cancellation Dashboard
-![Cancellation Dashboard](images/Dashboard/Cancellation.jpg)
+![Cancellation Dashboard](images/Dashboard_Images/Cancellation.jpg)
 
 ---
 
 ## Ratings Dashboard
-![Ratings Dashboard](images/Dashboard/Ratings.jpg)
+![Ratings Dashboard](images/Dashboard_Images/Ratings.jpg)
 
 ---
 
