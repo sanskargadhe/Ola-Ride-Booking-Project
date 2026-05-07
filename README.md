@@ -218,7 +218,7 @@ Created a professional 5-page interactive dashboard with slicers and KPIs.
 ---
 
 ## Cancellation Dashboard
-![Cancellation Dashboard](images/Dashboard_Images/Cancellation.jpg)
+![Cancellation Dashboard](images/Dashboard_Images/Cancellations.jpg)
 
 ---
 
