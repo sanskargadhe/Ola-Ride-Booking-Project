@@ -181,10 +181,3 @@ python charts.py
 
 ---
 
-## 👤 Author
-
-**Ghanashyam Kumbhar**  
-BCA | Shivaji University, Kolhapur (2023–2026)  
-📧 shyamkumbhar9816@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/shyamkumbhar01)  
-🐙 [GitHub](https://github.com/shyam-0121)
